@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CookWise (Flutter) - project folder: cook_wise
 
 ## Run
@@ -26,3 +27,7 @@ to `android/app/src/main/AndroidManifest.xml` (above `<application>`).
 See DEPLOYMENT.md (Firebase, Google sign-in, Translation API key, Google Play).
 
 Firebase is built in. After `flutter create .` run `dart tools/setup_android.dart`, then `flutterfire configure` (see DEPLOYMENT.md).
+=======
+# Cookwise
+CookWise – A Flutter-based multicuisine recipe application.
+>>>>>>> 197c4879bcaeeaeb6191f4879825b909c42fb222
