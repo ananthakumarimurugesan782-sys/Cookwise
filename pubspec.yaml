@@ -1,0 +1,26 @@
+name: cook_wise
+description: CookWise - multicuisine recipe app
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  http: ^1.2.0
+  crypto: ^3.0.3
+  firebase_core: ^4.15.0
+  firebase_auth: any
+  cloud_firestore: any
+  google_sign_in: ^7.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/recipes.json
+    - assets/data/prices.json

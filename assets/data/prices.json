@@ -1,0 +1,281 @@
+{
+ "currency": "₹",
+ "asOf_veg": "5 Oct 2026 (Koyambedu wholesale market, Chennai; report by DT Next)",
+ "asOf_meat": "Jul 2026 (Chennai market listings; fish from DT Next)",
+ "items": [
+  {
+   "k": "onion",
+   "re": "^(red |yellow |white |sweet )?onions?$",
+   "per": "kg",
+   "price": 56,
+   "pieceG": 150,
+   "cupG": 160
+  },
+  {
+   "k": "small onion",
+   "re": "^(shallots?|small onions?|pearl onions?)$",
+   "per": "kg",
+   "price": 80,
+   "pieceG": 30,
+   "cupG": 160
+  },
+  {
+   "k": "tomato",
+   "re": "^(roma |plum |ripe |fresh )?tomato(es)?$",
+   "per": "kg",
+   "price": 60,
+   "pieceG": 120,
+   "cupG": 180
+  },
+  {
+   "k": "potato",
+   "re": "^(russet |yukon gold |red |white |new |baby )?potato(es)?$",
+   "per": "kg",
+   "price": 35,
+   "pieceG": 170,
+   "cupG": 150
+  },
+  {
+   "k": "carrot",
+   "re": "^(baby |fresh )?carrots?$",
+   "per": "kg",
+   "price": 60,
+   "pieceG": 70,
+   "cupG": 130
+  },
+  {
+   "k": "beetroot",
+   "re": "^(beets?|beetroots?)$",
+   "per": "kg",
+   "price": 50,
+   "pieceG": 130,
+   "cupG": 135
+  },
+  {
+   "k": "garlic",
+   "re": "^(fresh )?(garlic|garlic cloves?|minced garlic)$",
+   "per": "kg",
+   "price": 250,
+   "pieceG": 5,
+   "cupG": 150,
+   "tbspG": 9,
+   "tspG": 3
+  },
+  {
+   "k": "ginger",
+   "re": "^(fresh |grated )?(ginger|ginger root|root ginger)$",
+   "per": "kg",
+   "price": 160,
+   "pieceG": 30,
+   "cupG": 100,
+   "tbspG": 6,
+   "tspG": 2
+  },
+  {
+   "k": "green chilli",
+   "re": "^(fresh )?(green (chil(l)?(i|e)(s|es)?|chil(l)?(i|e) peppers?)|thai chil(l)?(i|e)(s|es)?|serrano( peppers?)?)$",
+   "per": "kg",
+   "price": 70,
+   "pieceG": 8,
+   "cupG": 100,
+   "tbspG": 9,
+   "tspG": 3
+  },
+  {
+   "k": "lemon",
+   "re": "^lemons?$",
+   "per": "kg",
+   "price": 180,
+   "pieceG": 60
+  },
+  {
+   "k": "peas",
+   "re": "^(green |fresh )?peas$",
+   "per": "kg",
+   "price": 100,
+   "cupG": 145
+  },
+  {
+   "k": "beans",
+   "re": "^(green |french )?beans$",
+   "per": "kg",
+   "price": 70,
+   "cupG": 110
+  },
+  {
+   "k": "drumstick",
+   "re": "^drumsticks?$",
+   "per": "kg",
+   "price": 50,
+   "pieceG": 60
+  },
+  {
+   "k": "capsicum",
+   "re": "^((green|red|yellow|orange) )?(bell peppers?|capsicum)$",
+   "per": "kg",
+   "price": 50,
+   "pieceG": 150,
+   "cupG": 150
+  },
+  {
+   "k": "eggplant",
+   "re": "^(eggplants?|brinjals?|aubergines?)$",
+   "per": "kg",
+   "price": 40,
+   "pieceG": 300,
+   "cupG": 100
+  },
+  {
+   "k": "spinach",
+   "re": "^(fresh |baby )?spinach( leaves)?$",
+   "per": "bunch",
+   "price": 8,
+   "bunchG": 250,
+   "cupG": 30
+  },
+  {
+   "k": "mint",
+   "re": "^(fresh )?mint( leaves)?$",
+   "per": "bunch",
+   "price": 7,
+   "bunchG": 50,
+   "cupG": 25,
+   "tbspG": 3,
+   "tspG": 1
+  },
+  {
+   "k": "coriander",
+   "re": "^(fresh )?(cilantro|coriander|coriander leaves|cilantro leaves)$",
+   "per": "bunch",
+   "price": 7,
+   "bunchG": 50,
+   "cupG": 25,
+   "tbspG": 3,
+   "tspG": 1
+  },
+  {
+   "k": "curry leaves",
+   "re": "^(fresh )?curry leaves$",
+   "per": "bunch",
+   "price": 25,
+   "bunchG": 30,
+   "cupG": 20,
+   "tbspG": 2,
+   "tspG": 1
+  },
+  {
+   "k": "coconut",
+   "re": "^(fresh )?coconut$",
+   "per": "piece",
+   "price": 56,
+   "pieceG": 400
+  },
+  {
+   "k": "boneless chicken",
+   "re": "^((boneless|skinless).*chicken.*|chicken (breasts?|breast meat|breast fillets?))$",
+   "per": "kg",
+   "price": 420,
+   "pieceG": 200,
+   "cupG": 140
+  },
+  {
+   "k": "chicken",
+   "re": "^(whole )?chicken$|^chicken (thighs?|legs?|drumsticks?|wings?|pieces|meat)$",
+   "per": "kg",
+   "price": 210,
+   "pieceG": 1200,
+   "cupG": 140
+  },
+  {
+   "k": "boneless mutton",
+   "re": "^(boneless (lamb|mutton|goat).*|(lean )?lamb (leg|shoulder) boneless)$",
+   "per": "kg",
+   "price": 1200,
+   "cupG": 140
+  },
+  {
+   "k": "mutton",
+   "re": "^((lean )?lamb|mutton|goat)( meat| stew meat| chops| shoulder| leg| curry meat)?$",
+   "per": "kg",
+   "price": 850,
+   "cupG": 140
+  },
+  {
+   "k": "fish",
+   "re": "^(white )?fish( fillets?)?$|^(red snapper|snapper|tilapia|cod)( fillets?)?$",
+   "per": "kg",
+   "price": 400,
+   "cupG": 140
+  },
+  {
+   "k": "prawn",
+   "re": "^((large|medium|jumbo) )?(shrimps?|prawns?)( peeled and deveined)?$",
+   "per": "kg",
+   "price": 500,
+   "cupG": 150
+  },
+  {
+   "k": "crab",
+   "re": "^crab( meat)?$",
+   "per": "kg",
+   "price": 300,
+   "cupG": 130
+  },
+  {
+   "k": "squid",
+   "re": "^(squid|calamari)( rings)?$",
+   "per": "kg",
+   "price": 350,
+   "cupG": 140
+  },
+  {
+   "k": "rice",
+   "re": "^(white |long grain |basmati |jasmine |brown |raw )?rice$",
+   "per": "kg",
+   "price": 56,
+   "cupG": 185
+  },
+  {
+   "k": "sugar",
+   "re": "^(white |granulated |caster |powdered )?sugar$",
+   "per": "kg",
+   "price": 52,
+   "cupG": 200,
+   "tbspG": 12.5,
+   "tspG": 4.2
+  },
+  {
+   "k": "moong dal",
+   "re": "^((split |yellow )?moong dal|mung (beans|dal))$",
+   "per": "kg",
+   "price": 114,
+   "cupG": 200
+  },
+  {
+   "k": "masoor dal",
+   "re": "^((red )?lentils|masoor dal|red lentils)$",
+   "per": "kg",
+   "price": 88,
+   "cupG": 190
+  },
+  {
+   "k": "milk",
+   "re": "^(whole |full.fat |low.fat |fresh )?milk$",
+   "per": "litre",
+   "price": 44,
+   "cupG": 240,
+   "tbspG": 15,
+   "tspG": 5
+  },
+  {
+   "k": "groundnut oil",
+   "re": "^(peanut|groundnut) oil$",
+   "per": "litre",
+   "price": 226,
+   "cupG": 220,
+   "tbspG": 14,
+   "tspG": 4.5
+  }
+ ],
+ "asOf_staples": "8 Aug 2026 (Tamil Nadu retail, Ministry of Consumer Affairs data)"
+}
